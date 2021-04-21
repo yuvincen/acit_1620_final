@@ -1,6 +1,7 @@
 * {
     background-color: #E0ECDE;
     font-family: 'RocknRoll One', sans-serif;
+    text-align: center;
 }
 
 h1 {
@@ -11,12 +12,9 @@ h1 {
     margin: 0;
 }
 
-
-
 .nav {
     padding: 0;
     margin: 0;
-
 }
 
 li {
@@ -33,5 +31,5 @@ li {
 }
 
 @media screen and (min-width: 640px) {
-    .
+    
 }
